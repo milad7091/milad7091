@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Milad (misahiro)
+# 👋 Hi, I'm Milad (misa next)
 
 ## 👨‍💻 About Me
 I'm an experienced programmer with a passion for various programming languages and technologies. Holding a bachelor's degree in Computer Science, I love coding and learning new tech.
@@ -22,7 +22,7 @@ When I'm not behind the computer, you can find me:
 - 👨‍🍳 Cooking
 
 ## 📺 YouTube Channels
-- [misahiro](https://www.youtube.com/@misahiro)
+- [MisaNext](https://www.youtube.com/@misanext)
 - [NatureCookingMGDIN](https://www.youtube.com/@NatureCookingMGDIN)
 
 ## 📫 How to reach me
