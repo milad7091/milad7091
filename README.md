@@ -24,6 +24,8 @@ When I'm not behind the computer, you can find me:
 ## 📺 YouTube Channels
 - [MisaNext](https://www.youtube.com/@misanext)
 - [NatureCookingMGDIN](https://www.youtube.com/@NatureCookingMGDIN)
+- [Navaye Jan](https://www.youtube.com/@NavayeJan)
+- [Frozen Life –69°C](https://www.youtube.com/@FrozenLife-69C)
 
 ## 📫 How to reach me
 - Email: milad7091@gmail.com
